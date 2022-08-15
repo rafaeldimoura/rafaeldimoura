@@ -1,19 +1,18 @@
-Olá 👋 Sou Rafael Dimoura, estou estudando programação e criei este repositório para disponibilizar meus estudos.
-</br>
+<h4> Olá 👋 Sou Rafael Dimoura, estou estudando programação e criei este repositório para disponibilizar meus estudos. </h4>
 </br>
 Atualmente estou estudando:
-<a href = "https://github.com/rafaeldimoura"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="35" height="35" /></a>
-<a href = "https://github.com/rafaeldimoura"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35" /></a>
-<a href = "https://github.com/rafaeldimoura"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="35" height="35" /></a>
-<a href = "https://github.com/rafaeldimoura"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="35" height="35" /></a>
-<a href = "https://github.com/rafaeldimoura"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="35" height="35" /></a>
+<a href = "https://github.com/rafaeldimoura"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="30" height="30" /></a>
+<a href = "https://github.com/rafaeldimoura"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" /></a>
+<a href = "https://github.com/rafaeldimoura"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" /></a>
+<a href = "https://github.com/rafaeldimoura"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="30" height="30" /></a>
+<a href = "https://github.com/rafaeldimoura"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="30" height="30" /></a>
 </br>
 </br>
 Já trabalhei com:
-<a href = "https://github.com/rafaeldimoura"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35" height="35" /></a>
-<a href = "https://github.com/rafaeldimoura"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="35" height="35" /></a>
-<a href = "https://github.com/rafaeldimoura"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="35" height="35" /></a>
-<a href = "https://github.com/rafaeldimoura"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="35" height="35" /></a>
+<a href = "https://github.com/rafaeldimoura"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" height="30" /></a>
+<a href = "https://github.com/rafaeldimoura"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" width="30" height="30" /></a>
+<a href = "https://github.com/rafaeldimoura"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="30" height="30" /></a>
+<a href = "https://github.com/rafaeldimoura"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="30" height="30" /></a>
 </br>
 </br>
 Meus contatos:
